@@ -1,6 +1,6 @@
 # Deep_Learning_CS4644
 
-This repository contains my solutions to the assignments for the Deep Learning course at Georgia Tech during Spring '23. I'm pleased to report that I achieved the maximum grade in the course!
+This repository contains my solutions to the assignments for the Deep Learning course at Georgia Tech during Spring '23. 
 
 Assignments
 
