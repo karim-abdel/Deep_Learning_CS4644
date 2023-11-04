@@ -14,4 +14,4 @@ Assignment 4: Natural Language Processing (NLP)
 Worked with pre-trained language models for text generation and sentiment analysis.
 Fine-tuned models on domain-specific datasets.
 
-There are 4 different folders each one containing the code and a notebook. Moreover, there is a zip including the final submission
+There are 4 different folders each one containing the python scripts and a notebook. Moreover, there is a zip including the final submission.
