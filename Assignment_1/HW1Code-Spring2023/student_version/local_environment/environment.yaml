@@ -1,8 +1,0 @@
-name: dl_hw1
-channels:
-  - defaults
-dependencies:
-  - numpy
-  - pyyaml
-  - matplotlib
-
