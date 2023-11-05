@@ -1,0 +1,7 @@
+torchtext==0.14.1
+torch==1.13.1
+spacy==3.4.4
+tqdm==4.64.1
+numpy
+jupyter==1.0.0
+notebook
